@@ -18,9 +18,9 @@ app.config['MAIL_DEFAULT_SENDER'] = 'hamoodys3@yahoo.com'
 mail = Mail(app)
 
 projects = [
-    {"name": "Flask Portfolio", "url": "https://github.com/your-github/flask-portfolio", "description": "A personal portfolio built with Flask."},
-    {"name": "Cybersecurity Toolkit", "url": "https://github.com/your-github/cyber-toolkit", "description": "A collection of cybersecurity tools written in Python."},
-    {"name": "Network Scanner", "url": "https://github.com/your-github/network-scanner", "description": "A simple network scanner using Python and Scapy."}
+    {"name": "Flask Portfolio", "url": "https://github.com/hamoodys2/flask-portfolio", "description": "A personal portfolio built with Flask."},
+    {"name": "Cybersecurity Toolkit", "url": "https://github.com/hamoodys2/cyber-toolkit", "description": "A collection of cybersecurity tools written in Python."},
+    {"name": "Network Scanner", "url": "https://github.com/hamoodys2/network-scanner", "description": "A simple network scanner using Python and Scapy."}
 ]
 
 
